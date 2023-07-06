@@ -3,7 +3,7 @@ This repo lists all the components of my setup.
 
 ## Mice
 - BenQ Zowie
-- Razer DeathAdder
+- ~Razer DeathAdder~
 
 ## Keyboard
 - 40% DIY mechanical keyboard
@@ -18,11 +18,11 @@ This repo lists all the components of my setup.
 
 ## Headphone
 - Bang & Olufsen Beoplay
-- Bose QC 35 II
+- ~Bose QC 35 II~
 - HyperX Cloud II
 
 ## Phone
-- iPhone 5s
+- ~iPhone 5s~
 - Google Pixel 6
 
 ## Bag
