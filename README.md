@@ -1,6 +1,11 @@
 # SETUP
 This repo lists all the components of my setup.
 
+## Laptop
+- MacBook Air (2020)
+- ~ThinkPad E480~
+- ~MSI Leopard Pro GP62~
+
 ## Mice
 - BenQ Zowie
 - ~Razer DeathAdder~
@@ -22,8 +27,11 @@ This repo lists all the components of my setup.
 - HyperX Cloud II
 
 ## Phone
-- ~iPhone 5s~
 - Google Pixel 6
+- ~iPhone 5s~
 
 ## Bag
 - TNF Basecamp S
+
+## Watch
+- ~mi band 5~
