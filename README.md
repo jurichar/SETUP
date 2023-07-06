@@ -11,8 +11,8 @@ This repo lists all the components of my setup.
 - ~Razer DeathAdder~
 
 ## Keyboard
-- 40% DIY mechanical keyboard
 - Logitech MXKeys
+- 40% DIY mechanical keyboard
 
 ## Monitor
 - Random trash monitor
