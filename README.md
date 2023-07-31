@@ -7,6 +7,7 @@ This repo lists all the components of my setup.
 - ~MSI Leopard Pro GP62~
 
 ## Mice
+- Logitech MX Anywhere
 - BenQ Zowie
 - ~Razer DeathAdder~
 
@@ -27,11 +28,13 @@ This repo lists all the components of my setup.
 - HyperX Cloud II
 
 ## Phone
-- Google Pixel 6
+- iPhone 14
+- ~Google Pixel 6~
 - ~iPhone 5s~
 
 ## Bag
 - TNF Basecamp S
 
 ## Watch
+- Apple Watch SE 2022
 - ~mi band 5~
